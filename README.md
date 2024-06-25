@@ -118,3 +118,5 @@ Analytical Skills: Statistical analysis, data preprocessing
 ••Data: Contains the groundwater quality data collected from 28 wells over 2010-2021 (sourced from a government website).
 
 ••Thesis: Includes the comprehensive project report detailing the methodology, analysis, results, and conclusions of the study.
+
+••Python file
