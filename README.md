@@ -2,7 +2,7 @@
 This repository contains my  University project
 
 
-Groundwater Quality Assessment Using Artificial Neural Networks
+*Groundwater Quality Assessment Using Artificial Neural Networks*
 
 Project Overview
 
@@ -19,14 +19,23 @@ Data Collection:
 Groundwater samples were analyzed for the following parameters:
 
 pH
+
 Nitrate (NO3-)
+
 Fluoride (F-)
+
 Sulfate (SO4 2-)
+
 Calcium (Ca2+)
+
 Magnesium (Mg2+)
+
 Hardness
+
 Chloride (Cl-)
+
 Total Dissolved Solids (TDS)
+
 Alkalinity
 
 Samples were collected from 28 wells in the villages of Chhota Udaipur taluka over a span of 11 years (2010-2021). The data was sourced from a government website, ensuring its accuracy and reliability.
@@ -58,16 +67,22 @@ Validation:
 Performance Metrics:
 
 Mean Square Error (MSE): 0.0244
+
 Root Mean Square Error (RMSE): ~0.1562
+
 R-squared (R2): ~0.9999
 
 Water Quality Classification:
 
 Classified the groundwater samples into:
 •Excellent
+
 •Good
+
 •Poor
+
 •Very Poor
+
 •Unfit for Drinking
 
 Water Quality Index (WQI):
@@ -91,9 +106,14 @@ Collaboration: Enhanced technical and teamwork skills by working as part of a de
 Skills and Tools Utilized:
 
 Programming Languages: Python
+
 Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+
 Technical Skills: Data analysis, machine learning algorithms, model validation
+
 Analytical Skills: Statistical analysis, data preprocessing
+
 Repository Contents
-Data: Contains the groundwater quality data collected from 28 wells over 2010-2021 (sourced from a government website).
-Thesis: Includes the comprehensive project report detailing the methodology, analysis, results, and conclusions of the study.
+
+••Data: Contains the groundwater quality data collected from 28 wells over 2010-2021 (sourced from a government website).
+••Thesis: Includes the comprehensive project report detailing the methodology, analysis, results, and conclusions of the study.
